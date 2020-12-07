@@ -22,6 +22,10 @@
     font-size: 80px;
     color: white;
 }
+.row {
+    height: 33.33%;
+    width: 100%;
+}
 .waveWrapper {
     overflow: hidden;
     position: absolute;
